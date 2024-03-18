@@ -33,7 +33,7 @@ string simplifyPath(string path) {
 
 int main() {
     string path;
-    cout << "Kerem a robot parancsait:: ";
+    cout << "Kerem a robot parancsait: ";
     cin >> path;
 
 
