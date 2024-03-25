@@ -1,4 +1,4 @@
-# IT_CPP
+# C++ Projects
 Repository for my school C++ projects
 
 # Robot Command Simplifier
