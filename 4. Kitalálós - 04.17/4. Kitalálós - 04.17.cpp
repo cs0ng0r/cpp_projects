@@ -38,6 +38,7 @@ int main()
 				if (word[i] == inputWord[j])
 				{
 					karakterTalalat = true;
+					cout << word[i] << " ";
 					break;
 				}
 			}
@@ -46,15 +47,6 @@ int main()
 				talalt = false;
 				break;
 			}
-		}
-		if (talalt)
-		{
-			talalatok = inputWord;
-			break;
-		}
-		else
-		{
-			cout << "A megadott szo nem tartalmazza az eredeti szo betuit!" << endl;
 		}
 	}
 
